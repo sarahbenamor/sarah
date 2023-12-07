@@ -1,0 +1,6 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\Lenovo\Desktop\New begginings\esprit\Projectmicro\Val2\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Lenovo\Desktop\New begginings\esprit\Projectmicro\Val2\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\Lenovo\Desktop\New begginings\esprit\Projectmicro\Val2\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+error: 2	396	Invalid declarator expected'(' or identifier	MyProject.c
+hint: 0	1163	Variable '' has been declared, but not used	MyProject.c
+error: 0	102	Finished (with errors): 25 nov. 2023, 16:47:33	MyProject.mcppi

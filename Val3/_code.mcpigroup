@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\microc\TEE\Nouveau dossier\lm35.mcppi
+Project1=..\..\..\Documents\code\code.mcppi
+[ActiveProject]
+Index=1
